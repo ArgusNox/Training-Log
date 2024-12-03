@@ -94,7 +94,7 @@ body {
   }
 
   .fc-toolbar-title{
-    width: -webkit-fill-available;
+    width: max-content;
   }
   }
 
